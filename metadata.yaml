@@ -1,0 +1,34 @@
+_repo: Old-Chelsea-A-Summer-Day-s-Stroll_62807
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+creator:
+  author:
+    agent_name: Martin, Benjamin Ellis
+    birthdate: 1839
+    deathdate: 1909
+    gutenberg_agent_id: '41426'
+    url: http://www.gutenberg.org/2009/agents/41426
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62807'
+  lccn: '39006692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Chelsea (London, England) -- Description and travel'
+- GITenberg
+title: 'Old Chelsea: A Summer-Day''s Stroll'
+url: http://www.gutenberg.org/ebooks/62807
